@@ -22,7 +22,7 @@
 exemple de reponce
 
 exemple de LaTeX
-$$
+$
 \begin{center}
 \begin{tabular}{ |c|c|c| } 
  \hline
@@ -34,10 +34,10 @@ $$
 \end{center}
 
  Style en-ligne :
-    $\lim_{n \to \infty}
+    \lim_{n \to \infty}
     \sum_{k=1}^n \frac{1}{k^2}
-    = \frac{\pi^2}{6}$.
-$$
+    = \frac{\pi^2}{6}.
+$
 
 
 ## 6. Ressources Complémentaires  
